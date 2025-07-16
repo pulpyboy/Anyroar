@@ -1,10 +1,13 @@
 <h1 align="center">🧾 VF-6 Old Scanned Entry Downloader</h1>
 
 <p align="center">
-  <b>This tool lets you download scanned VF-6 Nondh images from the <a href="https://anyror.gujarat.gov.in/">AnyROR Gujarat website</a> using a simple CLI interface.</b><br>
-  Select your District ➡️ Taluka ➡️ Village and fetch all or selected entries in a few seconds!
-  ✅ Parallel downloads
-  ✅ All pages of each Nondh being downloaded
+<b>This tool lets you download scanned <a href="https://anyror.gujarat.gov.in/">VF-6 Nondh images</a> from the AnyROR Gujarat website using a simple CLI interface.</b><br>
+Select your <b>District</b> ➡️ <b>Taluka</b> ➡️ <b>Village</b> and fetch all or selected entries in just a few seconds!
+<br><br>
+✨ <b>Highlights:</b><br>
+⚡️ Parallel downloads for faster performance<br>
+📄 All pages of each Nondh are automatically downloaded<br>
+🎯 Skips already downloaded entries
 </p>
 
 ---
