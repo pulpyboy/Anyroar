@@ -25,12 +25,6 @@ Specific list (e.g. 12,15,17)
 ✅ Organizes images in folders:
 old-vf6/<District>/<Taluka>/<Village>/nondh_page.jpg
 
-📂 Files in This Repository
-File	Description
-anyror_old-vf6_downloader.py	Main Python script
-GJ_anyror_village_data.json	Village database with DTV codes
-requirements.txt	Required Python packages
-
 📦 Installation
 1. Clone the repository
 bash
@@ -78,9 +72,7 @@ old-vf6/
 Uses raw JSON from:
 GJ_anyror_village_data.json
 
-No token or login required
-
-No data is modified on the server — this is read-only scraping
+No CAPTCHA or login required
 
 ✅ License
 This project is open-source under the MIT License.
