@@ -21,7 +21,7 @@
   - Range (`e.g. 15-25`)
   - Specific list (`e.g. 12,15,17`)
 - ✅ **Asynchronous check** to find the highest Nondh number quickly
-- ✅ **Skips already downloaded** image files
+- ✅ **Skips already downloaded** nondh
 - ✅ **Organizes images** in folder format:
 
   ```
