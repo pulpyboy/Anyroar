@@ -26,8 +26,6 @@
   old-vf6/<District>/<Taluka>/<Village>/<nondh_page>.jpg
 
 
-</details>
-
 ---
 
 ## 📦 Installation
