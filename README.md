@@ -23,9 +23,10 @@
 - ✅ **Asynchronous check** to find the highest Nondh number quickly
 - ✅ **Skips already downloaded** image files
 - ✅ **Organizes images** in folder format:
-  old-vf6/<District>/<Taluka>/<Village>/<nondh_page>.jpg
+  old-vf6/&lt;District&gt;/&lt;Taluka&gt;/&lt;Village&gt;/&lt;nondh_page&gt;.jpg
 
 
+<details>
 ---
 
 ## 📦 Installation
