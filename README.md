@@ -106,7 +106,7 @@ old-vf6/
   <summary>Click to expand</summary>
 
 - Uses raw JSON from:  
-  📄 [GJ_anyror_village_data.json](https://raw.githubusercontent.com/pulpyboy/Anyror/refs/heads/main/GJ_anyror_village_data.json)
+  📄 [GJ_anyror_village_data.json](https://raw.githubusercontent.com/pulpyboy/Anyror/heads/main/GJ_anyror_village_data.json)
 - No CAPTCHA or login required
 - No modification of server data — 100% read-only
 
