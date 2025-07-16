@@ -23,11 +23,8 @@
 - ✅ **Asynchronous check** to find the highest Nondh number quickly
 - ✅ **Skips already downloaded** image files
 - ✅ **Organizes images** in folder format:
-old-vf6/<District>/<Taluka>/<Village>/<nondh_page>.jpg
+  old-vf6/<District>/<Taluka>/<Village>/<nondh_page>.jpg
 
-yaml
-Copy
-Edit
 
 </details>
 
@@ -46,6 +43,7 @@ cd GJ_anyror_update
 # Install required Python packages
 pip install -r requirements.txt
 </details>
+
 🐍 Usage
 <details> <summary>Click to expand</summary>
 bash
