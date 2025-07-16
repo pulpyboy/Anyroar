@@ -3,6 +3,8 @@
 <p align="center">
   <b>This tool lets you download scanned VF-6 Nondh images from the <a href="https://anyror.gujarat.gov.in/">AnyROR Gujarat website</a> using a simple CLI interface.</b><br>
   Select your District ➡️ Taluka ➡️ Village and fetch all or selected entries in a few seconds!
+  ✅ Parallel downloads
+  ✅ All pages of each Nondh being downloaded
 </p>
 
 ---
