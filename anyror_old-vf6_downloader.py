@@ -131,8 +131,7 @@ def run_downloader():
     print(f"   Village: {village['Village Name']}")
     confirm = input("✅ Is this correct? (y/n): ").strip().lower()
     if confirm != 'y':
-        print("\n🔁 Restarting selection...\n")
-        os.execv(sys.executable, [sys.executable] + sys.argv)
+        return False  # restart the selection process
 
     dtv_code = village["DTV Code"]
 
@@ -198,6 +197,8 @@ def run_downloader():
         for eno in skipped:
             print(f"[→] Nondh {eno} already downloaded (skipped)")
 
+    return True  # <- Add this line to trigger repeat
+
 def show_author_banner():
     print("\n" + "="*50)
     print("🧾 Made with ❤️ by Pulpyboy (2025)")
@@ -207,7 +208,10 @@ def main_loop():
     while True:
         print("\nMade with ❤️ by Pulpyboy (2025)\n")
         try:
-            run_downloader()
+            while True:
+                success = run_downloader()
+                if success:
+                    break
         except Exception as e:
             print(f"\n⚠️ Error: {e}")
         
