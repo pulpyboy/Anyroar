@@ -38,7 +38,7 @@ Select your <b>District</b> ➡️ <b>Taluka</b> ➡️ <b>Village</b> and fetch
 
 ---
 
-## 🪟 Windows Users – Just Run the `.exe`!
+## <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2021.svg" alt="Windows 11" width="32" /> Windows Users – Just Run the `.exe`!
 
 No need to install Python or any other dependencies!  
 Just **double-click the `.exe` file** and enjoy.
