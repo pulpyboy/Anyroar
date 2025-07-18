@@ -47,7 +47,7 @@ Just **double-click the `.exe` file** and enjoy.
 ✅ Fully offline  
 ✅ Same features as Python script  
 
-🔽 Download the latest `anyroar_old-vf6_downloader.exe` from the [Releases](https://github.com/pulpyboy/Anyroar/raw/refs/heads/main/anyroar_old-vf6_downloader.exe) section.
+🔽 [Download EXE File (v1.0)](https://github.com/pulpyboy/Anyror/releases/download/v1.0/anyror_old-vf6_downloader.exe)
 
 ---
 
@@ -58,8 +58,8 @@ Just **double-click the `.exe` file** and enjoy.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/GJ_anyror_update.git
-cd GJ_anyror_update
+git clone https://github.com/pulpyboy/Anyror.git
+cd Anyror
 
 # Install required Python packages
 pip install -r requirements.txt
@@ -130,4 +130,4 @@ old-vf6/
 
 ## ✅ License
 
-This project is licensed under the **GNU License**.
+This project is licensed under the **MIT License**.
