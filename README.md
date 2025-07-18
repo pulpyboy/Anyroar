@@ -1,3 +1,4 @@
+
 <h1 align="center">🧾 VF-6 Old Scanned Entry Downloader</h1>
 
 <p align="center">
@@ -37,7 +38,20 @@ Select your <b>District</b> ➡️ <b>Taluka</b> ➡️ <b>Village</b> and fetch
 
 ---
 
-## 📦 Installation
+## 🪟 Windows Users – Just Run the `.exe`!
+
+No need to install Python or any other dependencies!  
+Just **double-click the `.exe` file** and enjoy.
+
+✅ No setup required  
+✅ Fully offline  
+✅ Same features as Python script  
+
+🔽 Download the latest `anyroar_old-vf6_downloader.exe` from the [Releases](https://github.com/pulpyboy/Anyroar/raw/refs/heads/main/anyroar_old-vf6_downloader.exe) section.
+
+---
+
+## 📦 Installation (for Python users)
 
 <details>
   <summary>Click to expand</summary>
@@ -55,7 +69,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🐍 Usage
+## 🐍 Usage (Python)
 
 <details>
   <summary>Click to expand</summary>
@@ -116,4 +130,4 @@ old-vf6/
 
 ## ✅ License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **GNU License**.
