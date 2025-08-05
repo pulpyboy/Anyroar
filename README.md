@@ -43,7 +43,7 @@ Select your <b>District</b> ➡️ <b>Taluka</b> ➡️ <b>Village</b> and fetch
 No need to install Python or any other dependencies!  
 Just **double-click the `.exe` file** and enjoy.
 
-✅ No setup required
+✅ No setup required   
 ✅ Same features as Python script  
 
 🔽 [Download EXE File (v1.0)](https://github.com/pulpyboy/Anyror/releases/download/v1.0/anyror_old-vf6_downloader.exe)
